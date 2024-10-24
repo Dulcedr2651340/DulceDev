@@ -43,6 +43,8 @@ public class Main {
     }
 }
 ```
+## GitHub Stats
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dulcedr2651340&layout=compact&theme=radical&card_width=1000)
 
 
