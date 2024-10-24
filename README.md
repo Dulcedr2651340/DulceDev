@@ -3,7 +3,7 @@
 # 👋 Hey there! I'm Dulce DEV!
 
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGw1cGd4MmwzenZ3enV0M2NmajRqc2VlNG1ocXBmdjg4cWVtYjBsNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26DMYM4S4RytWCoQU/giphy-downsized.gif" alt="GIF divertido" width="400"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGw1cGd4MmwzenZ3enV0M2NmajRqc2VlNG1ocXBmdjg4cWVtYjBsNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26DMYM4S4RytWCoQU/giphy-downsized.gif" alt="GIF divertido" alt="GIF divertido" width="801" height="771"/>
 </div>
 
 ## About Me
