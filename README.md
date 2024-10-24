@@ -1,4 +1,4 @@
-[![Banner](https://i.pinimg.com/control/564x/f3/71/e5/f371e52ab7512d6e3368fe6b99a82bfb.jpg)](https://www.youtube.com/watch?v=dHkAuZCIWow)
+[![Banner](https://github.com/user-attachments/assets/0927d7ac-0f17-48fe-b4bc-3e8735018bf4)](https://www.youtube.com/watch?v=dHkAuZCIWow)
 
 # 👋 Hey there! I'm Dulce DEV!
 
