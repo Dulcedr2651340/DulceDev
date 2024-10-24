@@ -1,4 +1,4 @@
-[![Banner](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTRsc3NoNmNoMXo2MWc5b3d3amNrejJpcGxrM2tyb3NlcTJpanNhMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KpACNEh8jXK2Q/giphy.gif)](https://www.youtube.com/watch?v=dHkAuZCIWow)
+<img src="https://i.giphy.com/media/V1v2KPTcSMG13NEXOTRsc3NoNmMoMx02Mwc5b3d3amNrejpGGXMtzyb3NlCtjapnNN4yZ1CD12wpgbnRlc1mb5F9naVzYn1faWOyn3O9Zw/KpACNEh8jX20/giphy.gif" width="1045" height="412" />
 
 # 👋 Hey there! I'm Dulce DEV!
 
