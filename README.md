@@ -10,8 +10,7 @@
 
 | Java | Spring Boot | PL/SQL | SQL | API REST |English
 
-Music is my escape. 🎧🎶
+Music is my escape. 🎧🎶 - [Listen to my playlist on Spotify](https://open.spotify.com/playlist/3XJ2HdMQ3K1hONtlkRRYyg?utm_source=generator)
 
 [![Banner](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnI0ZnAxZDY0OHp1ZzhraW11dmNvMjJydm0wazRlaGZ2Zmw4Njk3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/tdDByjqJsARvQvCPqq/giphy.gif)](https://www.youtube.com/watch?v=DGkN-wBVeWk)
 
-[Escucha mi playlist en Spotify](https://open.spotify.com/playlist/3XJ2HdMQ3K1hONtlkRRYyg?utm_source=generator)
