@@ -14,4 +14,6 @@ Music is my escape. 🎧🎶
 
 [![Banner](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnI0ZnAxZDY0OHp1ZzhraW11dmNvMjJydm0wazRlaGZ2Zmw4Njk3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/tdDByjqJsARvQvCPqq/giphy.gif)](https://www.youtube.com/watch?v=DGkN-wBVeWk)
 
+<iframe src="https://open.spotify.com/playlist/3XJ2HdMQ3K1hONtlkRRYyg?si=75d891daae574d53" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
 
