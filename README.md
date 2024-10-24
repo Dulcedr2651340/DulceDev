@@ -47,4 +47,15 @@ public class Main {
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dulcedr2651340&layout=compact&theme=radical&card_width=1000)
 
+## If you've made it this far, thank you for checking out my profile! 🚀 I hope you have as much fun as I do creating amazing things.
+
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjAzY3gwbjVuazk3MmgwaXJ2ZXpyeG9rOXFxMTNwc2lzc3R3cm5jeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u1SH63gOjMPpS/giphy.gif" width="1045" height="412" />
+
+## Words of Encouragement for Fellow Developers
+
+- Learning to program has taught me that every mistake is an opportunity to improve. 💪
+- If you're just starting to program, don't give up. We've all been there, learning step by step. 🌱
+- I'm always open to learning more and sharing what I know. Let's talk about tech or music! 🎶
+- You might find music references here... because programming without music just isn't the same magic. ✨
+
 
