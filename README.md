@@ -1,4 +1,4 @@
-[![Banner](https://giphy.com/gifs/computer-monkey-KpACNEh8jXK2Q)](https://www.youtube.com/watch?v=dHkAuZCIWow)
+[![Banner](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTRsc3NoNmNoMXo2MWc5b3d3amNrejJpcGxrM2tyb3NlcTJpanNhMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KpACNEh8jXK2Q/giphy.gif)](https://www.youtube.com/watch?v=dHkAuZCIWow)
 
 # 👋 Hey there! I'm Dulce DEV!
 
