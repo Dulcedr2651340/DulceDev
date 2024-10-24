@@ -2,7 +2,9 @@
 
 # 👋 Hey there! I'm Dulce DEV!
 
-![Animated Banner](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGw1cGd4MmwzenZ3enV0M2NmajRqc2VlNG1ocXBmdjg4cWVtYjBsNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26DMYM4S4RytWCoQU/giphy-downsized.gif)
+<div align="center">
+  <img src="https://link_a_tu_gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGw1cGd4MmwzenZ3enV0M2NmajRqc2VlNG1ocXBmdjg4cWVtYjBsNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26DMYM4S4RytWCoQU/giphy-downsized.gif" alt="GIF divertido" width="400"/>
+</div>
 
 ## About Me
 
