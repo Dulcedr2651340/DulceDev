@@ -1,4 +1,4 @@
-[![Banner](https://github.com/user-attachments/assets/0927d7ac-0f17-48fe-b4bc-3e8735018bf4)](https://www.youtube.com/watch?v=dHkAuZCIWow)
+[![Banner](https://giphy.com/gifs/computer-monkey-KpACNEh8jXK2Q)](https://www.youtube.com/watch?v=dHkAuZCIWow)
 
 # 👋 Hey there! I'm Dulce DEV!
 
