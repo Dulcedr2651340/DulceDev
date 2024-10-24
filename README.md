@@ -8,7 +8,7 @@
 
 ## About Me
 
-| Java | Spring Boot | PL/SQL | SQL | API REST |English
+| Java | Spring Boot | PL/SQL | SQL | API REST | HTML | CSS | English |
 
 Music is my escape. 🎧 -  [Listen to my playlist on Spotify](https://open.spotify.com/playlist/3XJ2HdMQ3K1hONtlkRRYyg?utm_source=generator) 🎶
 
