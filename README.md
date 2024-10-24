@@ -42,4 +42,5 @@ public class Main {
         System.out.println("\nFeel free to connect if you'd like to collaborate or just talk about tech!");
     }
 }
-ssss
+```
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Dulcedr2651340&layout=compact&theme=radical)
