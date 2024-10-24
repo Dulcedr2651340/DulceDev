@@ -36,7 +36,7 @@ public class Main {
 
         System.out.println("\nSome of my projects:");
         for (String project : projects) {
-            System.out.println("🔹 " + project);
+            System.out.println(" 🍵 " + project);
         }
 
         System.out.println("\nFeel free to connect if you'd like to collaborate or just talk about tech!");
